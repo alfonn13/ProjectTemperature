@@ -20,8 +20,5 @@ const convertTemperature =() => {
   document.getElementById('farenheit').textContent = fahrenheit.toFixed(2);
 
 
-
-
-
 }
 
